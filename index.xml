@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Siyue Chen</title>
+    <link>uildDrafts/</link>
+    <description>Recent content on Siyue Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="uildDrafts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>uildDrafts/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>uildDrafts/contact/</guid>
+      <description> Email: chensiyue98@hotmail.com Phone: +86-13811990495 Linkedin: Siyue Chen   Mailing Address  7 Dongzhimen South St., Dongcheng District Beijing, 100007 China
+  Social  Facebook Twitter  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>uildDrafts/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>uildDrafts/projects/</guid>
+      <description>Selected Projects Design and Implementation of Environmental Monitoring System Based on IoT Final Project
+ The existing management system for computer labs has insufficient measurement factors. We design a system with the ability of sensing the environment and maintain certain conditions automatically , while the conditions can be controlled remotely. The system includes a sensing device based on STM32, an Android application to monitor and control, and a back-end cloud platform for data processing.</description>
+    </item>
+    
+  </channel>
+</rss>
