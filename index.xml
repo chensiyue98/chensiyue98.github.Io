@@ -22,7 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chensiyue98.github.io/projects/</guid>
-      <description>Selected Projects Design and Implementation of Environmental Monitoring System Based on IoT Final Project
+      <description>Selected Projects Design and Implementation of Environmental Monitoring System Based on IoT Final Project with Essay 2019 - 2020
  The existing management system for computer labs has insufficient measurement factors. We design a system with the ability of sensing the environment and maintain certain conditions automatically , while the conditions can be controlled remotely. The system includes a sensing device based on STM32, an Android application to monitor and control, and a back-end cloud platform for data processing.</description>
     </item>
     
