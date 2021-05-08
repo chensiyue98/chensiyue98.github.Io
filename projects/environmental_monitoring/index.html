@@ -79,14 +79,20 @@ if (!doNotTrack) {
 <h3 style="color:dc3545"><a href="../"><u>Back</u></a></h3>
 <h2>Design and Implementation of Environmental Monitoring System Based on IoT</h2>
 <p><strong>Final Project with Essay</strong>    <em>2019 - 2020</em></p>
-<ul>
-<li>The existing management system for computer labs has insufficient measurement
-factors. We design a system with the ability of sensing the environment and
-maintain certain conditions automatically, while the conditions can be controlled
-remotely.</li>
-<li>The system includes a sensing device based on STM32, an Android application to
-monitor and control, and a back-end cloud platform for data processing.</li>
-</ul>
+<p>
+With the development of information technology, computer rooms are blossoming or have been built in campuses for studying but still lack of efficient management. To solve the problems of high cost, insufficient networking and the single measurement of environmental factors in the existing computer room control system, An automatic and remote management system for computer rooms is designed based on the single-chip microcontroller with multiple sensors and modules, and an Android application is developed to control the devices. The system realizes remote monitoring and control of environmental variables such as temperature, humidity, and lighting with multiple trigger factors.
+</p>
+<p><img alt="Project Structure" src="./structure.jpeg"/></p>
+<p>
+The hardware design of the system includes an STM32 controller, sensing modules, equipment control modules, and the network module. DHT11 and YH-LDR sensors are used in the data acquisition to measure the environmental factors, and the equipment control module controls the cooling system and other executive equipment through the control relay. And STM32 is connected to the network through the ESP8266 Wi-Fi module for remote control. An IoT cloud server is used as the backend system for information processing and history data review.
+</p>
+<p><img alt="Hardware Structure" src="./hardware.jpeg"/></p>
+<p>
+After testing, the designed control system for this paper is able to realize the remote real-time monitoring of the air temperature, air humidity and light intensity in the machine room, and can automatically control the relevant factors within the required range. Compared to the existed computer room management method, this system has advantages in convenience accuracy, and low-cost.
+</p>
+<p><img alt="Screenshot" src="./screenshot.jpeg"/>
+<img alt="Test Environment" src="./test.jpeg"/>
+</p>
 
 </div>
 
